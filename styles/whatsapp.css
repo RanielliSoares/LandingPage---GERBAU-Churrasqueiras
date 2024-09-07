@@ -10,6 +10,7 @@
     padding: 10px;
     background-color: #25d366;
     text-decoration: none;
+    border-radius: 10px;
 }
 .paragrafo__Whatsapp{
     color: var(--branco);
