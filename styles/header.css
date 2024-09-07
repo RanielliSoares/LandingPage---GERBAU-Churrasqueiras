@@ -22,6 +22,7 @@
     flex-direction: column;
     margin-right: 1em;
     margin-left: 0.5em;
+    transition: all 0.3s ease;
 }
 
 .bar {
@@ -37,6 +38,8 @@
     background-color: var(--cinza-escuro);
     position: absolute;
     width: 100%;
+    transition: opacity 3s ease, transform 3s ease;
+    transform: translateY(-20px)
 }
 
 #menu ul li {
