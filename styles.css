@@ -1,22 +1,23 @@
 @import url("./styles/header.css");
 @import url("./styles/apresentacao.css");
-@import url("card__pautas.css");
-@import url("topicos.css");
-@import url("card_video.css");
+@import url("./styles/carrossel.css");
+@import url("./styles/whatsapp.css");
+@import url("./styles/localizacao.css");
 @import url("footer.css");
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:wght@400;700&display=swap');
 :root{
     --cor-de-fundo:#EBECEE;
-    --amarelo: #008170;
+    --amarelo: #00FFFF;
     --azul-medio: #232D3F;
-    --azul-claro:  #005B41;
+    --azul-claro:  #ADD8E6;
     --azul-escuro:#0F0F0F ;
 
     --preto: #000000;
     --cinza: #474646;
-    --cinza-claro: #858585;
+    --cinza-claro: #e7e7e7;
     --branco: #fff;
+    --cinza-escuro: #333;
 
     --fonte-principal: "Roboto", sans-serif;
     --fonte-secundario: "Josefin Sans";

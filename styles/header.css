@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color: var(--azul-escuro);
+    background-color: var(--cinza-escuro);
     padding: 1em 5px;
     display: flex;
     align-items: center;
@@ -34,7 +34,7 @@
 
 #menu {
     display: none;
-    background-color: var(--azul-escuro);
+    background-color: var(--cinza-escuro);
     position: absolute;
     width: 100%;
 }
@@ -82,7 +82,6 @@
         color: var(--cor-de-fundo);
         text-decoration: none;
         padding: 10px;
-        
         
     }
 

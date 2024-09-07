@@ -1,0 +1,21 @@
+.localizacao{
+    padding: 5px;
+    text-align: center;
+    background-color: var(--cinza-escuro);
+    border-radius: 10px;
+}
+.titulo__localizacao{
+    font-size: 24px;
+    font-weight: 700;
+    margin: 10px;
+    color: var(--cinza-claro);
+}
+.paragrafo__localizacao{
+    color: var(--cinza-claro);
+    margin-bottom: 5px;
+}
+.mapa {
+    width: 100%;
+    height: 450px;
+    border: 0;
+}

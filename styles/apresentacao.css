@@ -5,7 +5,7 @@
     text-align: center;
     font-size: 24px;
     font-weight: 700;
-    background-color: var(--azul-escuro);
+    background-color: var(--cinza-escuro);
     color: var(--amarelo);
     padding: 10px;
     width: 90%;
@@ -15,7 +15,7 @@
 }
 .paragrafos__apresentacao{
     padding: 10px;
-    background-color: var(--azul-medio);
-    color: var(--branco);
+    background-color: var(--cinza);
+    color: var(--cinza-claro);
     font-weight: 400;
 }
